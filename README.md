@@ -4,3 +4,8 @@ Si podés leer esto quiere decir que sólo falta un paso más para poder comenza
 ![](http://imgur.com/qqF4u4S.png)
 
 ![](http://imgur.com/M2TaKLo.png)
+
+Una vez que el comando finalice podrás escribir el nombre del taller que elegiste (por ejemplo `javascripting` o `learnyounode`), apretar Enter y ver algo parecido a lo siguiente:
+![](http://imgur.com/dagSO8f.png)
+
+Querrá decir que ya estás listo para comenzar!
